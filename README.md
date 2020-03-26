@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<HTML>
 <HEAD>
 <TITLE> bernieri giorgia</TITLE>
 </HEAD>

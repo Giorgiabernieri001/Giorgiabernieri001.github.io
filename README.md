@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<HEAD>
-<TITLE> bernieri giorgia</TITLE>
-</HEAD>
-<BODY>
+<head>
+<title> bernieri giorgia</title>
+</head>
+<body>
 ciao sono giorgia e ho 19 anni
-</BODY>
-</HTML>
+</body>
+</html>
